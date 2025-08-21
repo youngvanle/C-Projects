@@ -9,3 +9,6 @@ This folder contains complete C++ applications that demonstrate modular program 
 
 - **InvestmentTracker**  
   A financial projection tool that calculates compound interest over time, with and without monthly deposits.  Outputs formatted tables with yearly growth summaries.
+
+- **PurchasedItemTracker**  
+  A purchased item frequency analyzer that reads item names from an input file and tracks how often each item appears. Users can search for specific item counts, view all frequencies, and display results using a simple text-based graph.
