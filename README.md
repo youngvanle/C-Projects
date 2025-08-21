@@ -1,4 +1,4 @@
-# C-Projects
+# C++ Projects
 
 This repository showcases C++ projects developed through structured labs and hands-on practice. The goal is to build a strong foundation in core programming concepts such as input/output handling, arithmetic logic, functions, classes, file operations, and modular development.
 
